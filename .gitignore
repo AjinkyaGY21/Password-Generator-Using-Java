@@ -1,0 +1,13 @@
+# VS Code files
+.vscode/
+*.vscode
+
+# Compiled output
+bin/
+*.class
+
+# Dependencies
+lib/
+
+# Other
+*.log
